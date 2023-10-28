@@ -1,0 +1,6 @@
+# Keep only files with extension.
+*
+!*.*
+
+# macOS system generated files.
+**/.DS_Storess
